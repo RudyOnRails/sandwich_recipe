@@ -3,8 +3,8 @@ sandwich_recipe
 
 A tasty way to learn the basics of Git: 
 
-init - present big poster board recipe card
-repo - a collection of ingredients that go into your master recipe
+init - present big poster board recipe card  
+repo - a collection of ingredients that go into your master recipe  
 add - an ingredient you plan to keep and update the recipe card with
 remove - an ingredient you were going to keep, but would like to remove from the recipe card update
 index/staging - the area where you keep all your ingredients you want to update
